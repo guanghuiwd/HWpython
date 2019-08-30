@@ -1,1 +1,3 @@
-
+JB 黄色小灯泡，对输入代码的建议
+alt + insert 创建新文件
+shift + F10 快捷键运行  微软拼音ctrl+shift+B 是微软表情包
