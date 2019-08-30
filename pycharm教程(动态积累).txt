@@ -1,3 +1,4 @@
 JB 黄色小灯泡，对输入代码的建议
 alt + insert 创建新文件
 shift + F10 快捷键运行  微软拼音ctrl+shift+B 是微软表情包
+https://blog.csdn.net/javagarden/article/details/84537854  pycharm科学模式转换
