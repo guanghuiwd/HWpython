@@ -1,0 +1,1 @@
+np中带着np.random
