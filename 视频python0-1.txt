@@ -1,3 +1,6 @@
 https://www.bilibili.com/video/av45962943?from=search&seid=593102844665268417  pycharm 
 https://www.bilibili.com/video/av4050443?from=search&seid=3803099265145761070  python B站第一
+motto /座右铭  script/脚本
+
 python import起飞  胶水语言  
+File | Settings | Editor | File and Code Templates    设置题头
