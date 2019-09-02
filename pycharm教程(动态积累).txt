@@ -1,7 +1,12 @@
 JB 黄色小灯泡，对输入代码的建议
 alt + insert 创建新文件
-shift + F10 快捷键运行  微软拼音ctrl+shift+B 是微软表情包
+shift + F10 快捷键运行       微软拼音ctrl+shift+B 是微软表情包
+shift + enter 跳转下一行
 https://blog.csdn.net/javagarden/article/details/84537854  pycharm科学模式转换
 https://blog.csdn.net/sinat_41942988/article/details/96478706 删除环境
 
 单多行注释就一个组合键：选中+Ctrl+/
+File | Settings | Editor | File and Code Templates    设置题头
+
+http://3ms.huawei.com/km/blogs/details/6421545 导包配置
+https://www.cnblogs.com/smokefire/p/7993851.html 不用虚拟环境
