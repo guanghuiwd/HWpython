@@ -1,3 +1,4 @@
+float //浮动
 np中带着np.random
 print(np.sum(a,axis=1))     print(np.min(a,axis=0))  #二维，0是列，1是行。
 最外面的括号代表着 axis=0，依次往里的括号对应的 axis 的计数就依次加 1
@@ -6,4 +7,13 @@ print(np.clip(A,5,10))
 print(A.flatten()) /for item in A.flat： print(item)
 这里的(3，)是因为shape返回tuple类型，单个元素情况下必须写逗号
 print(A[:, np.newaxis])
-https://www.bilibili.com/video/av16378934/?p=9   P9
+P9
+axis=0针对行进行计算，结束后列数不变，axis=1针对列进行计算，结束后行数不变
+axis为0的维是最高维，axis每加1表示降低一个维度，比如一个1*3*4的矩阵，axis=0，表示第三维，以此类推。
+就是进一个括号的意思。数字越大越进一层括号。
+ hspilt：纵轴拆分 vspilt：纵轴拆分
+P10 abcd都指向内存中同一块 引用更确切
+b=a.copy()  ！！！就不会同时改变值了
+///深拷贝与浅拷贝的问题，区别就是拷贝对象中是否有可变对象的存在，如果都是不可变的，那copy不就是深拷贝了吗
+pandas P1 
+float64  就是64位（浮点数）
