@@ -10,3 +10,5 @@ File | Settings | Editor | File and Code Templates    设置题头
 
 http://3ms.huawei.com/km/blogs/details/6421545 导包配置
 https://www.cnblogs.com/smokefire/p/7993851.html 不用虚拟环境
+
+http://cmc-cd-mirror.rnd.huawei.com/mirror 
